@@ -4,6 +4,7 @@
 
 - _The Art of Unit Testing_, Roy Osherove
 - _Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman_, David H. Hoover and Adewale Oshineye
+- _Atomic Habits_, James Clear
 - _Clean Code: A Handbook of Agile Software Craftsmanship_, Robert C. Martin
 - _Hackers & Painters: Big Ideas from the Computer Age_, Paul Graham
 - _Lean In_, Sheryl Sandberg
