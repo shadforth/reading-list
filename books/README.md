@@ -9,6 +9,7 @@
 - _Lean In_, Sheryl Sandberg
 - _The Pragmatic Programmer_, Andy Hunt and Dave Thomas
 - _Pragmatic Thinking and Learning: Refactor Your Wetware_, Andy Hunt
+- _Radical Candor_, Kim Scott
 - _Steve Jobs_, Walter Isaacson
 - _Women In Tech: Take Your Career to the Next Level with Practical Advice and Inspiring Stories_, Tarah Wheeler Van Vlack
 
@@ -31,7 +32,6 @@
 - _The Phoenix Project_, Gene Kim, George Spafford, and Kevin Behr
 - _The Practicing Stoic_, Ward Farnsworth
 - _Principles_, Ray Dalio
-- _Radical Candor_, Kim Scott
 - _Refactoring: Improving the Design of Existing Code_, Martin Fowler
 - _Specification by Example_, Gojko Adzic
 - _Super Thinking: The Big Book of Mental Models_, Lauren McCann and Gabriel Weinberg

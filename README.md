@@ -4,4 +4,4 @@ A place to share books I'm reading and planning to read — technology-related a
 
 ## Books
 
-Books directory [here](./BOOKS.md).
+Books directory [here](./books/README.md).
