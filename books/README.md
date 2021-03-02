@@ -16,7 +16,9 @@
 
 ## To read 📕
 
+- _12 Rules for Life_, Jordan Peterson
 - _The Advantage: Why Organizational Health Trumps Everything Else In Business_, Patrick Lencioni
+- _An Elegant Puzzle: Systems of Engineering Management_, Will Larson
 - _The Charisma Myth_, Olivia Fox Cabane
 - _Clean Architecture: A Craftsman's Guide to Software Structure and Design_, Robert C. Martin
 - _Continuous Delivery_, Dave Farley and Jez Humble
@@ -26,6 +28,8 @@
 - _The Five Dysfunctions of a Team_, Patrick Lencioni
 - _Growing Object Oriented Software Guided by Tests_, Nat Price and Steve Freeman
 - _The Hard Things About Hard Things_, Ben Horowitz
+- _The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change_, Camille Fournier
+- _The Master and His Emissary_, Iain McGilchrist
 - _Mindset: The New Psychology of Success_, Carol Dweck
 - _The Motive: Why So Many Leaders Abdicate Their Most Important Responsibilities_, Patrick Lencioni
 - _Multipliers: How the Best Leaders Make Everyone Smarter_, Liz Wiseman and sGreg McKeown
