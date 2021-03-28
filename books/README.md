@@ -2,6 +2,7 @@
 
 ## Complete 📗
 
+- _97 Things Every Java Programmer Should Know: Collective Wisdom from the Experts_, Kevlin Henney and Trisha Gee
 - _The Art of Unit Testing_, Roy Osherove
 - _Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman_, David H. Hoover and Adewale Oshineye
 - _Atomic Habits_, James Clear

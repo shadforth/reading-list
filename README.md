@@ -1,6 +1,6 @@
 # Reading List 📚
 
-A place to share books I'm reading and planning to read — technology-related and beyond!
+A place to share books I've read and want to read.
 
 ## Books
 
